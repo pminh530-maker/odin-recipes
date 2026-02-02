@@ -1,0 +1,20 @@
+.main-title {
+    display: inline-block;
+    background-color: rgba(61, 206, 250, 0.733);
+    font-size: 50px;
+    font-family: "Times New Roman", serif;
+    padding: 8px 16px;
+    outline: 1px solid black;
+}
+
+.list{
+    display: block;
+    outline: solid black 1px;
+    font-weight: 900;
+    font-style: italic;
+}
+.list-items{
+    font-size: 30px;
+    font-family: "Times New Roman", serif;
+    padding: 15px;
+}
